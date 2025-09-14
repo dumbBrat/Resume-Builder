@@ -1,7 +1,7 @@
 import io
 import docx
-from templates_pdf.minimal_template import build_minimal_template
-from templates_pdf.modern_template import build_modern_template
+from templates_file.minimal_template import build_minimal_template
+from templates_file.modern_template import build_modern_template
 from docx import Document
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 
