@@ -1,0 +1,15 @@
+flask
+flask-cors
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+# PDF generation
+reportlab
+python-docx
+
+# Typing helpers
+typing-extensions
