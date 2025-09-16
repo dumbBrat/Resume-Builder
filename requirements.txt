@@ -13,3 +13,6 @@ python-docx
 
 # Typing helpers
 typing-extensions
+
+#UI
+streamlit
